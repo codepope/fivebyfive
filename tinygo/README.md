@@ -2,6 +2,8 @@
 
 [TinyGo website](https://tinygo.org)
 
+[BasicBlinky example](https://github.com/codepope/basicblinky)
+
 ## macOS installation
 
 ```shell
